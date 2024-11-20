@@ -16,4 +16,5 @@ public class LoginMap {
     public WebElement textUsuarioBloqueado;
     @FindBy(css = "[class='error-message-container error']")
     public WebElement textCamposEmBranco;
+
 }

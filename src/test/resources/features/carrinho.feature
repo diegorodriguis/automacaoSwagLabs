@@ -17,7 +17,7 @@ Funcionalidade: Carrinho
 
     Exemplos:
       | identificacao  |
-      | adiiconar item |
+      | adicionar item |
 
   @removerItem
   Esquema do Cenario: Teste de carrinho <identificacao>
